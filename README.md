@@ -1,3 +1,3 @@
-DataScience_Project
+**DataScience_Project**
 
 EDA for Titanic dataset
