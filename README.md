@@ -1,3 +1,3 @@
-# HexSoftwares_DataScience_FirstProject
+DataScience_Project
 
 EDA for Titanic dataset
